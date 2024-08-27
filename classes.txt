@@ -1,0 +1,6 @@
+spur
+short
+spurious_copper
+open_circuit
+mouse_bite
+missing_hole
